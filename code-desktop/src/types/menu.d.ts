@@ -55,7 +55,6 @@ export type DownMenuButtonProps = {
 }
 
 export type LanguageProps = {
-    language: string;
     setLanguage: React.Dispatch<React.SetStateAction<string>>;
 }
 

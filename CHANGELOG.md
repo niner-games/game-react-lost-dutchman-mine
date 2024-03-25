@@ -4,7 +4,7 @@ Lost Dutchman Mine Change Log
 0.2.2 April 7, 2024
 -------------------
 
-
+- Bug #79: Change build properties (MadejaMaciej)
 
 0.2.1 March 25, 2024
 -------------------

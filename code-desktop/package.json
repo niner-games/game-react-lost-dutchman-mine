@@ -1,8 +1,8 @@
 {
-  "name": "california-49er-desktop-v1",
-  "productName": "california-49er-desktop-v1",
+  "name": "lost-dutchman-mine",
+  "productName": "Lost Dutchman Mine",
   "version": "0.2.1",
-  "description": "Lost dutchman mine game for desktop.",
+  "description": "Lost Dutchman Mine",
   "main": ".webpack/main",
   "build": {
     "appId": "ldm",
@@ -59,8 +59,7 @@
   },
   "keywords": [],
   "author": {
-    "name": "Maciej Madejczyk",
-    "email": "48794984+MadejaMaciej@users.noreply.github.com"
+    "name": "Niner Games"
   },
   "license": "MIT",
   "dependencies": {
